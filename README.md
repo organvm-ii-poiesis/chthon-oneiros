@@ -83,6 +83,10 @@ Horror is not the genre. It is the symptom language of that terrain.
 
 The container-level mandate: a house for works where reality is porous, time folds or stutters, desire and fear are indistinguishable at first glance, and meaning arrives late if at all. Each work can take a different form — video, text, sound, artifact — but all obey the same gravitational rules.
 
+### Archival Provenance
+
+The GRINDER concept did not emerge fully formed. Three "Open View" screenplay drafts written between 2018 and 2019 constitute the earliest archival source material, tracing the hookup-app-horror premise through successive revisions over multiple years. These drafts — analyzed scene by scene in `GRINDER-New-chat.md` — establish that the core conceit predates any AI-assisted development and was incubated through traditional screenwriting practice. The provenance matters: what became CHTHON-ONEIROS has roots in sustained craft labor, not a single generative session.
+
 Seven candidate structural names were evaluated through etymological and ontological analysis: PHANTASMATA, CHTHONION, ONEIROS/ONEIRION, DAEMONIUM, HYPOSTASIS, LIMEN INFERUM, CATABASIS. PHANTASMATA was selected as the container because it names appearance without explanation, accommodates horror, dream, fantasy, and the macabre equally, and does not overcommit to theology, psychology, or genre. CHTHON-ONEIROS names this specific repository within that container.
 
 ---
@@ -109,6 +113,8 @@ The project deploys specific formal techniques across all media:
 
 This repository contains `defining-organ-orchestration.md` — the 84,000-word genesis document in which the entire eight-organ system (organvm) was first articulated. The conversation that birthed the organ architecture happened within what was then the GRINDER project space. The document remains here as historical source material: this is where the system came from, even though the system now governs far more than this project.
 
+GRINDER/CHTHON-ONEIROS exists within a broader creative universe that includes ETCETER4, et4L, MET4MORFOSES, AMP LAB MEDIA, and LOCREANCE. Each of these projects is deliberately independent — they share an author but not a creative continuity. GRINDER and its companion QUEER contain no AI elements and are not technologically mediated in their artistic identity, even as the organ system that governs them was articulated through AI-assisted conversation.
+
 ---
 
 ## Document Manifest
@@ -119,17 +125,17 @@ This repository contains `defining-organ-orchestration.md` — the 84,000-word g
 | `GRINDER-Creative-Concept-Clarification.md` | Full stylistic design guide: visual palette, narrative structure, audio, pacing, social content |
 | `GRINDER-Scope-correction-and-terrain.md` | Scope correction from single story to container; ontological naming; etymological matrix |
 | `GRINDER-Document-Ingestion-and-Application.md` | Application of four-field temporal model to project state |
-| `GRINDER-New-chat.md` | Additional project development notes |
-| `122325-asciiart-README.md` | ASCII art README draft (December 2023) |
+| `GRINDER-New-chat.md` | Analysis of three "Open View" screenplay drafts (2018–2019): archival source material and conceptual seed archive for GRINDER |
+| `122325-asciiart-README.md` | ASCII art README draft (December 2025) |
 | `defining-organ-orchestration.md` | Genesis document for the eight-organ system (~84K words) |
 | `Temporal-Work-and-Struggle.md` | Foundational four-field governance model for lifetime creative labor |
-| `ChatGPT-Demons in Paradise Lost.md` | Extended research on Paradise Lost, demonology, and horror lineage |
+| `ChatGPT-Demons in Paradise Lost.md` | Extended conversation spanning Paradise Lost demonology, MET4MORFOSES origins, personal creative calling, and early organ system genesis (shared document) |
 | `ChatGPT-Grinder Blair Witch Fear.md` | Blair Witch fear-profile analysis applied to GRINDER |
 | `ChatGPT-GRINDER Project Threads Summary.md` | Project thread summary and cross-format property design |
 | `ChatGPT-Grinder Project Public Creation.md` | Public creation strategy and release mechanics |
-| `ChatGPT-Monetization Strategy Priorities.md` | Monetization and access-packaging strategy |
+| `ChatGPT-Monetization Strategy Priorities.md` | Full AJP Media Arts monetization strategy across all creative projects (shared document) |
 | `ChatGPT-Release Strategy Enhancement.md` | Release cadence and strategy refinement |
-| `ChatGPT-QUEER Growth Strategy.md` | Growth strategy for companion project (shared document) |
+| `ChatGPT-QUEER Growth Strategy.md` | QUEER growth strategy applied to GRINDER's public creation model (shared document) |
 | `ChatGPT-Queer Project Growth Strategy.md` | Extended growth strategy (shared document) |
 | `ChatGPT-QUEER Project Thread Summary.md` | Thread summary for companion project (shared document) |
 | `ChatGPT-Ways to Share Writing.md` | Platform and distribution analysis (shared document) |
