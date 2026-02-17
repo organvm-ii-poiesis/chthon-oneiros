@@ -3,15 +3,103 @@
   "mechanic": "Psychic Weight",
   "log": [
     {
-      "week": 1,
-      "date": "2026-02-17",
+      "week": 4,
+      "date": "2026-03-10",
       "scores": {
-        "GRINDER": 45,
-        "QUEER": 30,
-        "ETCETER4": 0
+        "GRINDER": 90,
+        "QUEER": 0,
+        "ETCETER4": 10
       },
       "winner": "GRINDER",
-      "impact": "Week 2 assets will be 'Glitched' (+10 $KON_SPIRAL intensity)."
+      "impact": "Phase I Complete. Week 5 begins Phase II: The Escalation. All assets turn RED (+20 $ARGENTO_GEL)."
+    },
+    {
+      "week": 5,
+      "date": "2026-03-17",
+      "scores": {
+        "GRINDER": 50,
+        "QUEER": 0,
+        "ETCETER4": 50
+      },
+      "winner": "TIE",
+      "impact": "Tension High. Week 6 will require a 'Breaker' event to determine the victor."
+    },
+    {
+      "week": 6,
+      "date": "2026-03-24",
+      "scores": {
+        "GRINDER": 80,
+        "QUEER": 0,
+        "ETCETER4": 20
+      },
+      "winner": "GRINDER",
+      "impact": "Breaker Won. Week 7 will focus on the 'Mediation Collapse' (+20 $KON_SPIRAL intensity)."
+    },
+    {
+      "week": 7,
+      "date": "2026-03-31",
+      "scores": {
+        "GRINDER": 75,
+        "QUEER": 0,
+        "ETCETER4": 25
+      },
+      "winner": "GRINDER",
+      "impact": "Invasion Right Secured. Week 8 will be the Mid-Season Climax (+30 $ARGENTO_GEL intensity)."
+    },
+    {
+      "week": 8,
+      "date": "2026-04-07",
+      "scores": {
+        "GRINDER": 100,
+        "QUEER": -10,
+        "ETCETER4": 10
+      },
+      "winner": "GRINDER",
+      "impact": "Phase II Complete. Total Domain Dominance. Phase III: The Haunt begins in Week 9. (+40 $LYNCH_DRIFT intensity)."
+    },
+    {
+      "week": 9,
+      "date": "2026-04-14",
+      "scores": {
+        "GRINDER": 95,
+        "QUEER": -20,
+        "ETCETER4": 5
+      },
+      "winner": "GRINDER",
+      "impact": "The Haunt deepens. Week 10 will be 'The Return'—bringing back a corrupted Ring 0 asset."
+    },
+    {
+      "week": 10,
+      "date": "2026-04-21",
+      "scores": {
+        "GRINDER": 98,
+        "QUEER": -30,
+        "ETCETER4": 2
+      },
+      "winner": "GRINDER",
+      "impact": "Total Collapse. Week 11 will be 'The Convergence'—the final merging of Waking and Dreaming."
+    },
+    {
+      "week": 11,
+      "date": "2026-04-28",
+      "scores": {
+        "GRINDER": 100,
+        "QUEER": -50,
+        "ETCETER4": 0
+      },
+      "winner": "CHTHON",
+      "impact": "CONVERGENCE ACHIEVED. The rivalry is over. Week 12 will be 'The Coronation' (+50 $ARGENTO_GEL intensity)."
+    },
+    {
+      "week": 12,
+      "date": "2026-05-05",
+      "scores": {
+        "CHTHON": "CRITICAL",
+        "QUEER": "PROCESSED",
+        "ETCETER4": "SYNCED"
+      },
+      "winner": "THE AUDIENCE",
+      "impact": "SEASON 1 COMPLETE. The repository is now a living artifact."
     }
   ]
 }
