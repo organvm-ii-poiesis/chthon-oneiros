@@ -5,7 +5,7 @@
 **Container:** PHANTASMATA
 **Field:** II -- Present Dreaming
 **Generated:** 2026-02-17
-**Catalog Version:** 1.0
+**Catalog Version:** 1.1
 
 ---
 
@@ -13,14 +13,16 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents | 20 files |
+| Total documents | 25 files |
 | Theory/foundation documents | 5 (GRINDER-prefixed) |
 | Genesis/source material | 2 (defining-organ-orchestration.md, Temporal-Work-and-Struggle.md) |
 | Strategy documents | 7 (ChatGPT exports) |
 | Thread summaries | 2 (ChatGPT exports) |
+| Research reports | 3 (anchor director deep research) |
+| Infrastructure files | 2 (CLAUDE.md, drafts/README.md) |
 | Shared source material | 11 files shared with companion project KRYPTO-VELAMEN |
-| Estimated total word count | ~102,000 |
-| Total size | 724,718 bytes |
+| Estimated total word count | ~147,000 |
+| Total size | 1,028,413 bytes |
 
 ---
 
@@ -80,13 +82,28 @@ The complete list of shared files:
 10. ChatGPT-Release Strategy Enhancement.md
 11. ChatGPT-Ways to Share Writing.md
 
+### Anchor Director Research
+
+| Filename | Type | Words | Key Topics | Director Dial |
+|----------|------|------:|------------|---------------|
+| research/argento-deep-research.md | research | ~16,500 | Color as weapon, ritual staging, giallo grammar, 18 formal techniques, Suspiria/Deep Red/Tenebrae analysis | $ARGENTO_GEL |
+| research/lynch-deep-research.md | research | ~20,600 | Mundane-to-cosmic dread, dream intrusion, identity blur, 20 formal techniques, Mulholland Drive/Twin Peaks/Lost Highway analysis | $LYNCH_DRIFT |
+| research/kon-deep-research.md | research | ~7,500 | Mediation collapse, performance haunt, obsession recursion, 20 formal techniques, Perfect Blue/Paprika/Paranoia Agent analysis | $KON_SPIRAL |
+
+### Infrastructure
+
+| Filename | Type | Words | Key Topics |
+|----------|------|------:|------------|
+| CLAUDE.md | project-context | ~450 | AI session bootstrap: 9 sections covering project model, aesthetic axes, craft mechanisms, director dials, constraints, pipeline |
+| drafts/README.md | scaffold | ~400 | Creative output scaffold: Field II constraints, field boundary rules, 5 output formats, director dial settings, naming convention |
+
 ### Other
 
 | Filename | Type | Words | Key Topics |
 |----------|------|------:|------------|
 | ChatGPT-Demons in Paradise Lost.md | shared | 64,723 | Extended Paradise Lost/demonology research, MET4MORFOSES origins, personal creative calling, early organ system genesis |
 | README.md | manifest | 1,900 | Authoritative project manifest: etymology, identity, field position, aesthetic DNA, craft mechanisms, system position |
-| seed.yaml | configuration | 40 | Automation contract: schema v1.0, Organ II, SENSORIA sprint |
+| seed.yaml | configuration | 60 | Automation contract: schema v1.0, Organ II, SENSORIA sprint, 3 agents (research-executor, catalog-updater, companion-sync) |
 | 122325-asciiart-README.md | misc | 150 | ASCII art README draft (December 2025) |
 
 ---
@@ -230,15 +247,20 @@ Presence of major concepts across the corpus. An `x` indicates the concept is de
 | 9 | ChatGPT-QUEER Project Thread Summary.md | 5,882 | 846 | thread_summary / shared |
 | 10 | ChatGPT-Release Strategy Enhancement.md | 2,385 | 314 | strategy / shared |
 | 11 | ChatGPT-Ways to Share Writing.md | 9,305 | 1,324 | strategy / shared |
-| 12 | defining-organ-orchestration.md | 84,055 | 12,000+ | genesis |
-| 13 | GRINDER-Creative-Concept-Clarification.md | 19,097 | 2,600 | theory |
-| 14 | GRINDER-Document-Ingestion-and-Application.md | 5,247 | 720 | theory |
-| 15 | GRINDER-GRINDER-Project-Overview.md | 2,791 | 380 | theory |
-| 16 | GRINDER-New-chat.md | 4,069 | 560 | theory |
-| 17 | GRINDER-Scope-correction-and-terrain.md | 14,002 | 1,920 | theory |
-| 18 | README.md | 13,966 | 1,900 | manifest |
-| 19 | seed.yaml | 984 | 40 | configuration |
-| 20 | Temporal-Work-and-Struggle.md | 22,929 | 3,444 | genesis / shared |
+| 12 | CLAUDE.md | 2,859 | 450 | project-context |
+| 13 | defining-organ-orchestration.md | 84,055 | 12,000+ | genesis |
+| 14 | drafts/README.md | 1,836 | 400 | scaffold |
+| 15 | GRINDER-Creative-Concept-Clarification.md | 19,097 | 2,600 | theory |
+| 16 | GRINDER-Document-Ingestion-and-Application.md | 5,247 | 720 | theory |
+| 17 | GRINDER-GRINDER-Project-Overview.md | 2,791 | 380 | theory |
+| 18 | GRINDER-New-chat.md | 4,069 | 560 | theory |
+| 19 | GRINDER-Scope-correction-and-terrain.md | 14,002 | 1,920 | theory |
+| 20 | README.md | 13,966 | 1,900 | manifest |
+| 21 | research/argento-deep-research.md | 113,006 | 16,500 | research |
+| 22 | research/kon-deep-research.md | 53,391 | 7,500 | research |
+| 23 | research/lynch-deep-research.md | 134,439 | 20,600 | research |
+| 24 | seed.yaml | 1,273 | 60 | configuration |
+| 25 | Temporal-Work-and-Struggle.md | 22,929 | 3,444 | genesis / shared |
 
 ---
 
