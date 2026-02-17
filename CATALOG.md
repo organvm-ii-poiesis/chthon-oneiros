@@ -5,7 +5,7 @@
 **Container:** PHANTASMATA
 **Field:** II -- Present Dreaming
 **Generated:** 2026-02-17
-**Catalog Version:** 1.1
+**Catalog Version:** 2.0
 
 ---
 
@@ -13,16 +13,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents | 25 files |
+| Total documents | 39 files |
 | Theory/foundation documents | 5 (GRINDER-prefixed) |
 | Genesis/source material | 2 (defining-organ-orchestration.md, Temporal-Work-and-Struggle.md) |
 | Strategy documents | 7 (ChatGPT exports) |
 | Thread summaries | 2 (ChatGPT exports) |
-| Research reports | 3 (anchor director deep research) |
+| Research reports — anchor directors | 3 (Argento, Lynch, Kon deep research) |
+| Research reports — comparative | 1 (Argento × Lynch × Kon cross-analysis) |
+| Research reports — world briefs | 10 (PHANTASMATA world research) |
+| Production tooling | 2 (DIAL-WORKSHEET, TEMPLATE) |
 | Infrastructure files | 2 (CLAUDE.md, drafts/README.md) |
 | Shared source material | 11 files shared with companion project KRYPTO-VELAMEN |
-| Estimated total word count | ~147,000 |
-| Total size | 1,028,413 bytes |
+| Estimated total word count | ~300,000 |
+| Total size | ~2,083,000 bytes |
 
 ---
 
@@ -89,6 +92,34 @@ The complete list of shared files:
 | research/argento-deep-research.md | research | ~16,500 | Color as weapon, ritual staging, giallo grammar, 18 formal techniques, Suspiria/Deep Red/Tenebrae analysis | $ARGENTO_GEL |
 | research/lynch-deep-research.md | research | ~20,600 | Mundane-to-cosmic dread, dream intrusion, identity blur, 20 formal techniques, Mulholland Drive/Twin Peaks/Lost Highway analysis | $LYNCH_DRIFT |
 | research/kon-deep-research.md | research | ~7,500 | Mediation collapse, performance haunt, obsession recursion, 20 formal techniques, Perfect Blue/Paprika/Paranoia Agent analysis | $KON_SPIRAL |
+
+### Comparative Director Research
+
+| Filename | Type | Words | Key Topics | Director Dials |
+|----------|------|------:|------------|----------------|
+| research/comparative-director-report.md | research | ~20,700 | Cross-director systems analysis, dial interaction mechanics, convergence zones, PHANTASMATA synthesis protocols | $ARGENTO_GEL × $LYNCH_DRIFT × $KON_SPIRAL |
+
+### PHANTASMATA World Research Briefs
+
+| Filename | Type | Words | Key Topics |
+|----------|------|------:|------------|
+| research/world-01-found-footage-form.md | research | ~9,900 | Blair Witch to Unfriended, found media as epistemic horror, documentary collapse, POV authority |
+| research/world-02-digital-paranoia.md | research | ~20,800 | Internet-native horror ecosystems, digital dread, surveillance anxiety, platform horror |
+| research/world-03-giallo-ecosystem.md | research | ~19,100 | Bava, Fulci, Martino, Italian horror grammar, giallo beyond Argento, color-violence systems |
+| research/world-04-dream-cinema.md | research | ~26,800 | Buñuel to Gondry, oneiric film rendering, dream logic as cinematic grammar, surrealist technique |
+| research/world-05-body-transgression.md | research | ~8,000 | Cronenberg, Barker, flesh as surface, body horror, transgression aesthetics |
+| research/world-06-asian-horror.md | research | ~9,500 | Ringu to Parasite, regional horror grammars, J-horror, K-horror, folk-supernatural |
+| research/world-07-horror-sound.md | research | ~8,700 | Psycho to Hereditary, auditory mechanics of dread, silence, industrial noise, scoring |
+| research/world-08-philosophy-fear.md | research | ~8,400 | Carroll, Burke, Radcliffe, horror as epistemology, paradox of horror, art-horror theory |
+| research/world-09-screen-life.md | research | ~8,800 | Screen life cinema, social horror, participatory dread, digital interface as narrative |
+| research/world-10-args-immersive.md | research | ~9,900 | Marble Hornets to Sleep No More, ARGs, immersive horror, participatory experience |
+
+### Production Tooling (Drafts)
+
+| Filename | Type | Words | Key Topics |
+|----------|------|------:|------------|
+| drafts/DIAL-WORKSHEET.md | production | ~2,100 | Director dial worksheet for creative output, dial calibration, aesthetic mixing guide |
+| drafts/TEMPLATE.md | production | ~770 | Creative fragment template, multi-format output scaffold |
 
 ### Infrastructure
 
@@ -249,18 +280,31 @@ Presence of major concepts across the corpus. An `x` indicates the concept is de
 | 11 | ChatGPT-Ways to Share Writing.md | 9,305 | 1,324 | strategy / shared |
 | 12 | CLAUDE.md | 2,859 | 450 | project-context |
 | 13 | defining-organ-orchestration.md | 84,055 | 12,000+ | genesis |
-| 14 | drafts/README.md | 1,836 | 400 | scaffold |
-| 15 | GRINDER-Creative-Concept-Clarification.md | 19,097 | 2,600 | theory |
-| 16 | GRINDER-Document-Ingestion-and-Application.md | 5,247 | 720 | theory |
-| 17 | GRINDER-GRINDER-Project-Overview.md | 2,791 | 380 | theory |
-| 18 | GRINDER-New-chat.md | 4,069 | 560 | theory |
-| 19 | GRINDER-Scope-correction-and-terrain.md | 14,002 | 1,920 | theory |
-| 20 | README.md | 13,966 | 1,900 | manifest |
-| 21 | research/argento-deep-research.md | 113,006 | 16,500 | research |
-| 22 | research/kon-deep-research.md | 53,391 | 7,500 | research |
-| 23 | research/lynch-deep-research.md | 134,439 | 20,600 | research |
-| 24 | seed.yaml | 1,273 | 60 | configuration |
-| 25 | Temporal-Work-and-Struggle.md | 22,929 | 3,444 | genesis / shared |
+| 14 | drafts/DIAL-WORKSHEET.md | 14,037 | 2,103 | production |
+| 15 | drafts/README.md | 1,836 | 400 | scaffold |
+| 16 | drafts/TEMPLATE.md | 5,493 | 772 | production |
+| 17 | GRINDER-Creative-Concept-Clarification.md | 19,097 | 2,600 | theory |
+| 18 | GRINDER-Document-Ingestion-and-Application.md | 5,247 | 720 | theory |
+| 19 | GRINDER-GRINDER-Project-Overview.md | 2,791 | 380 | theory |
+| 20 | GRINDER-New-chat.md | 4,069 | 560 | theory |
+| 21 | GRINDER-Scope-correction-and-terrain.md | 14,002 | 1,920 | theory |
+| 22 | README.md | 13,966 | 1,900 | manifest |
+| 23 | research/argento-deep-research.md | 113,006 | 16,500 | research — anchor |
+| 24 | research/comparative-director-report.md | 137,777 | 20,744 | research — comparative |
+| 25 | research/kon-deep-research.md | 53,391 | 7,500 | research — anchor |
+| 26 | research/lynch-deep-research.md | 134,439 | 20,600 | research — anchor |
+| 27 | research/world-01-found-footage-form.md | 69,904 | 9,948 | research — world |
+| 28 | research/world-02-digital-paranoia.md | 146,776 | 20,837 | research — world |
+| 29 | research/world-03-giallo-ecosystem.md | 132,317 | 19,142 | research — world |
+| 30 | research/world-04-dream-cinema.md | 175,168 | 26,817 | research — world |
+| 31 | research/world-05-body-transgression.md | 56,619 | 8,048 | research — world |
+| 32 | research/world-06-asian-horror.md | 65,955 | 9,534 | research — world |
+| 33 | research/world-07-horror-sound.md | 62,050 | 8,744 | research — world |
+| 34 | research/world-08-philosophy-fear.md | 62,957 | 8,399 | research — world |
+| 35 | research/world-09-screen-life.md | 60,921 | 8,812 | research — world |
+| 36 | research/world-10-args-immersive.md | 69,873 | 9,915 | research — world |
+| 37 | seed.yaml | 1,273 | 60 | configuration |
+| 38 | Temporal-Work-and-Struggle.md | 22,929 | 3,444 | genesis / shared |
 
 ---
 
