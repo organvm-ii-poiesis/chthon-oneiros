@@ -1,0 +1,128 @@
+{
+  "project": "CHTHON-ONEIROS",
+  "version": "1.0",
+  "generated": "2026-02-17",
+  "research_documents": [
+    {
+      "id": "anchor-argento",
+      "filename": "argento-deep-research.md",
+      "dial": "$ARGENTO_GEL",
+      "key_concepts": [
+        "Color as weapon",
+        "Ritual staging",
+        "Giallo grammar",
+        "Operatic violence",
+        "Non-linear mystery"
+      ],
+      "pull_quotes": [
+        "The image has abandoned realism.",
+        "Every surface is a chromatic weapon.",
+        "Death as opera."
+      ]
+    },
+    {
+      "id": "anchor-lynch",
+      "filename": "lynch-deep-research.md",
+      "dial": "$LYNCH_DRIFT",
+      "key_concepts": [
+        "Mundane-to-cosmic dread",
+        "Dream intrusion",
+        "Identity blur",
+        "Industrial silence",
+        "The Trapdoor"
+      ],
+      "pull_quotes": [
+        "The mundane world has a trapdoor to the cosmic.",
+        "Silence is a presence, not an absence.",
+        "You cannot determine who you are."
+      ]
+    },
+    {
+      "id": "anchor-kon",
+      "filename": "kon-deep-research.md",
+      "dial": "$KON_SPIRAL",
+      "key_concepts": [
+        "Mediation collapse",
+        "Performance haunt",
+        "Obsession recursion",
+        "Observer contamination",
+        "Memory construction"
+      ],
+      "pull_quotes": [
+        "The recording is more real than the event.",
+        "Identity theft by performance.",
+        "The image consumes the person."
+      ]
+    },
+    {
+      "id": "world-01",
+      "title": "Found Footage Form",
+      "filename": "world-01-found-footage-form.md",
+      "concepts": ["POV authority", "Documentary collapse", "Epistemic horror"],
+      "technique": "The Camera as Character"
+    },
+    {
+      "id": "world-02",
+      "title": "Digital Paranoia",
+      "filename": "world-02-digital-paranoia.md",
+      "concepts": ["Platform horror", "Surveillance anxiety", "Algorithmic dread"],
+      "technique": "The Feed as Trap"
+    },
+    {
+      "id": "world-03",
+      "title": "Giallo Ecosystem",
+      "filename": "world-03-giallo-ecosystem.md",
+      "concepts": ["Italian horror grammar", "Color-violence systems", "Black-gloved killer"],
+      "technique": "The Set-Piece"
+    },
+    {
+      "id": "world-04",
+      "title": "Dream Cinema",
+      "filename": "world-04-dream-cinema.md",
+      "concepts": ["Oneiric rendering", "Dream logic", "Surrealist technique"],
+      "technique": "The Associative Cut"
+    },
+    {
+      "id": "world-05",
+      "title": "Body Transgression",
+      "filename": "world-05-body-transgression.md",
+      "concepts": ["Flesh as surface", "Body horror", "Transgression aesthetics"],
+      "technique": "The New Flesh"
+    },
+    {
+      "id": "world-06",
+      "title": "Asian Horror",
+      "filename": "world-06-asian-horror.md",
+      "concepts": ["Regional grammar", "J-horror", "K-horror", "Folk-supernatural"],
+      "technique": "The Curse"
+    },
+    {
+      "id": "world-07",
+      "title": "Horror Sound",
+      "filename": "world-07-horror-sound.md",
+      "concepts": ["Auditory dread", "Silence", "Industrial noise", "Infrasound"],
+      "technique": "The Sonic Void"
+    },
+    {
+      "id": "world-08",
+      "title": "Philosophy of Fear",
+      "filename": "world-08-philosophy-fear.md",
+      "concepts": ["Horror as epistemology", "Sublime", "Uncanny", "Abject"],
+      "technique": "The Epistemic Failure"
+    },
+    {
+      "id": "world-09",
+      "title": "Screen Life",
+      "filename": "world-09-screen-life.md",
+      "concepts": ["Social horror", "Participatory dread", "Interface as narrative"],
+      "technique": "The Desktop as Stage"
+    },
+    {
+      "id": "world-10",
+      "title": "ARGs & Immersive",
+      "filename": "world-10-args-immersive.md",
+      "concepts": ["Participatory experience", "Alternate Reality Games", "Bleed"],
+      "technique": "The Game is Real"
+    }
+  ]
+}

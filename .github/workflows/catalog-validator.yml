@@ -1,0 +1,20 @@
+name: Catalog Validator
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Catalog Integrity
+        run: |
+          # Simple check to ensure CATALOG.md exists and is updated
+          if [ ! -f CATALOG.md ]; then
+            echo "CATALOG.md missing"
+            exit 1
+          fi
+          # Future: Add script to verify all .md files are indexed
