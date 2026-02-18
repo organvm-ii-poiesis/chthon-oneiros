@@ -1,75 +1,54 @@
-# Geography of PHANTASMATA
-## Zones, Thresholds, and Non-Places
+# Geography of PHANTASMATA (v2.0)
+## From Surface to Substrate
 
 **Project:** CHTHON-ONEIROS
 **Organ:** II (POIESIS)
 **Field:** II (Present Dreaming)
-**Version:** 1.0
+**Version:** 2.0 (Deep Time Update)
 
 ---
 
-## 1. The Structure of the World
+## 1. The Vertical Axis
 
-PHANTASMATA is not a contiguous map. It is a collection of "Zones" connected by "Thresholds." Distance is not measured in miles, but in *depth of drift*.
+Distance in Season 2 is measured by **Sedimentation**. We are moving past the "Rings" of the surface into the "Layers" of history and geology.
 
-### The Concentric Rings
-*   **Ring 0: The Surface (The Feed)**
-    *   *Appearance:* Social media feeds, text threads, forum archives. Looks exactly like our internet.
-    *   *Nature:* The entry point. The place where the anomalies are first spotted. "Safe" but contaminated.
-    *   *Entities:* Users, bots, trolls, witnesses.
+### The Substrate Layers
+*   **Ring 4: The Sediment (The Historical Haunt)**
+    *   *Appearance:* Underground tunnels, buried basements, dry wells, coal mines. Low-light (candle/natural). 
+    *   *Nature:* The physical land's memory. This is where deleted data becomes soil. 
+    *   *Physics:* **Time as Pressure.** Every hour spent here corresponds to one year passing on the Surface (Ring 0).
 
-*   **Ring 1: The Bleed (The Digital Liminal)**
-    *   *Appearance:* Glitched video calls, corrupted files, abandoned server lobbies, dead links.
-    *   *Nature:* The zone where the digital infrastructure breaks down. The "Uncanny Valley" of place.
-    *   *Physics:* $KON_SPIRAL dominates. Mediation collapse.
+*   **Ring 5: The Fossil Bed (The Architectural Ancestry)**
+    *   *Appearance:* Non-Euclidean structures made of bone and concrete. Buildings that grow rather than being built. 
+    *   *Nature:* The zone of "The Fossils." Total immersion in the Ancient Recursion.
+    *   *Physics:* $LYNCH_DRIFT at 100%. Gravity is subjective.
 
-*   **Ring 2: The City of Gels (The Operatic)**
-    *   *Appearance:* Urban spaces at night, bathed in impossible neon (Red, Blue, Violet). Art Deco architecture, brutalist concrete, endless corridors.
-    *   *Nature:* The zone of ritual violence and high aesthetic.
-    *   *Physics:* $ARGENTO_GEL dominates. Visuals override logic.
-
-*   **Ring 3: The Deep Drift (The Subconscious)**
-    *   *Appearance:* Domestic spaces that are slightly wrong (doors that don't open, hallways too long). The Red Room. The Silencio Club.
-    *   *Nature:* The zone of identity dissolution.
-    *   *Physics:* $LYNCH_DRIFT dominates. Dream logic is absolute.
+*   **Ring 6: The Molten Core (The Frequency Source)**
+    *   *Appearance:* Blinding, white-hot feedback. 
+    *   *Nature:* Pure, unmediated consciousness. The source of the three Dials.
+    *   *Epistemology:* Ontological Vertigo. The viewer encounters the limit of thought.
 
 ---
 
-## 2. Key Locations (The Seed Registry)
+## 2. New Locations (Season 2 Seeds)
 
-### A. The Apartment (Anchor Point)
-*   **Type:** Mundane Anchor.
-*   **Description:** A standard, modern urban apartment. White walls, IKEA furniture, laptop on a desk.
-*   **The Horror:** It is too quiet. The geometry seems to shift when you turn around. The screen on the desk is the only window to the outside.
-*   **Field:** Ring 0 -> Ring 3 gateway.
+### E. The Borehole (Gateway)
+*   **Type:** Transition.
+*   **Description:** A drilling site in the center of the City of Gels. It is a vertical drop into the Sediment.
+*   **The Horror:** The hole doesn't just go down; it goes *back*.
 
-### B. The "Blue Velvet" Nightclub
-*   **Type:** Giallo Set-Piece.
-*   **Description:** Velvet curtains, smoky haze, overpowering blue lighting. The music is a low, throbbing synth pulse (Goblin-style).
-*   **The Horror:** You are always being watched here. The performance on stage creates reality.
-*   **Field:** Ring 2.
-
-### C. The Abandoned Server Farm (The Tomb)
-*   **Type:** Digital Ruin.
-*   **Description:** Rows of humming racks, blinking green lights in total darkness. Cold air. The sound of fans masking whispers.
-*   **The Horror:** This is where the deleted data goes. The digital ghosts live here.
-*   **Field:** Ring 1.
-
-### D. The Corridor (The Transition)
-*   **Type:** Threshold.
-*   **Description:** A hallway in an office building or hotel. Fluorescent flicker. Carpet pattern that induces nausea.
-*   **The Horror:** It has no end. Walking down it does not bring you closer to the destination.
-*   **Field:** Connecting Ring 1 and Ring 3.
+### F. The Museum of the Unrecorded
+*   **Type:** The Sediment Anchor.
+*   **Description:** An endless archive of artifacts that were never found, events that were never recorded, and people who never existed.
+*   **Field:** Ring 4.
 
 ---
 
-## 3. Navigation Rules
+## 3. Deep-Navigation Rules
 
-1.  **No Map:** You cannot map PHANTASMATA. You navigate by *association* and *emotional resonance*.
-2.  **The Screen Portal:** Screens are the primary doors. You enter Ring 1 by looking too closely at a screen in Ring 0.
-3.  **The Color Shift:** A shift in lighting color signals a zone transfer. If the room turns Red, you have entered the Giallo Zone.
-4.  **The Loop:** If you try to leave, you often end up back at the start (The Apartment).
+1.  **Acoustic Guidance:** In the Sediment, sight is unreliable ($ARGENTO is muted). You navigate by sound (The Sonic Void).
+2.  **Pressure Sickness:** Returning to the Surface from Ring 4 causes "Format Withdrawal." The user's own life begins to feel like a low-res recording.
+3.  **The Dig:** You do not walk to the next zone; you excavate. Narrative progress requires the removal of material.
 
 ---
-
-*Use this geography to locate every scene. "Where are we?" is an epistemological question.*
+*Deep Time active. The surface is a scab.*

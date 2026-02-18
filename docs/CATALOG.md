@@ -5,7 +5,7 @@
 **Container:** PHANTASMATA
 **Field:** II -- Present Dreaming
 **Generated:** 2026-02-17
-**Catalog Version:** 3.0 (End of Season 1)
+**Catalog Version:** 4.2 (Substrate Linguistic Update)
 
 ---
 
@@ -13,41 +13,31 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents | 98 files |
-| Research Reports | 19 (10 World, 3 Deep, 1 Comp, 5 Cluster) |
-| Bible/Architecture | 5 (Physics, Geography, Bestiary, Artifacts, Loop) |
-| Production Fragments | 10 (Pilot, High-Intensity Tests, Alpha Pack) |
-| Release Assets | 36 (Weeks 1-12 complete) |
-| Data & Indexes | 2 (research_index.json, weight_log.json) |
-| Estimated total word count | ~680,000 |
+| Total documents |       94 files |
+| The Black Book | 1 (Season 1 Omnibus) |
+| Research Reports | 22 (Clusters 1-8 complete) |
+| Bible/Architecture | 5 (v2.0 Deep Time Architecture) |
+| Season 2 Episodes | 2 ("Core Sample," "House of Leaves") |
+| Estimated total word count | **318272** |
 
 ---
 
-## The Gilded Cage Cycle (Season 1)
+## 🏛️ THE BLACK BOOK (Field IV)
+| Filename | Type | Description |
+|----------|------|-------------|
+| docs/THE_BLACK_BOOK_S1.md | omnibus | Canonical linearized Season 1 manuscript. |
 
-### Phase I: The Seeding
-| Week | Asset | Focus |
-|---|---|---|
-| 01 | release/week_01/drop.md | The Red Corridor |
-| 02 | release/week_02/drop.md | The Rot Filter |
-| 03 | release/week_03/drop.md | The Dissolve |
-| 04 | release/week_04/drop.md | The First Peak |
+## 🧬 Season 2: THE DEEP TIME
+### Architecture (The Substrate)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_08_viral_semiotics.md | research | Burroughs, Pontypool, Snow Crash (Infectious Phoneme). |
 
-### Phase II: The Escalation
-| Week | Asset | Focus |
-|---|---|---|
-| 05 | release/week_05/drop.md | The Red Shift |
-| 06 | release/week_06/drop.md | The Trapdoor |
-| 07 | release/week_07/drop.md | The Mirror |
-| 08 | release/week_08/drop.md | The Blue Velvet Nightclub (Climax) |
-
-### Phase III: The Haunt
-| Week | Asset | Focus |
-|---|---|---|
-| 09 | release/week_09/drop.md | The Silence |
-| 10 | release/week_10/drop.md | The Return |
-| 11 | release/week_11/drop.md | The Convergence |
-| 12 | release/week_12/drop.md | The Coronation (Finale) |
+### Production (Episodes)
+| Filename | Type | Focus |
+|----------|------|-------|
+| production/beta/episode_01_core_sample.md | episode | Drilling into the Cable-Nerve. |
+| production/beta/episode_02_house_of_leaves.md | episode | Non-Euclidean spatial horror. |
 
 ---
-*Catalog version 3.0 -- SEASON 1 COMPLETE. The Archive is Closed.*
+*Catalog version 4.2 -- WORD COUNT CALIBRATED.*

@@ -17,9 +17,10 @@ The project is housed within the **PHANTASMATA** container, a registry of altere
 
 ## 🗺️ Navigation
 - [**Bible**](./bible/): The governing laws of physics, geography, and entities.
-- [**Research**](./research/): Deep dives into Lynchian surrealism, Giallo grammar, and Digital Paranoia.
-- [**Production**](./production/): Active narrative fragments and diegetic assets.
-- [**Release**](./release/): The 12-week Season 1 campaign ("The Gilded Cage Cycle").
+- [**Research**](./research/): Deep dives into 20+ horror masters and thematic clusters.
+- [**Production**](./production/): Active episodes and high-intensity synthesis.
+- [**Release**](./release/): Canonical campaign history (Season 1 & 2).
+- [**The Trapdoor**](./bible/geography.md): *Descent into the Substrate (Ring 4).*
 - [**Docs**](./docs/): Theoretical foundations and strategy archives.
 
 ---

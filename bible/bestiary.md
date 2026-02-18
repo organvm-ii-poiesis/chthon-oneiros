@@ -1,46 +1,44 @@
-# Bestiary of PHANTASMATA (v1.1)
+# Bestiary of PHANTASMATA (v2.0)
 ## Entities, Constructs, and Phenomena
 
 **Project:** CHTHON-ONEIROS
 **Organ:** II (POIESIS)
 **Field:** II (Present Dreaming)
-**Version:** 1.1 (Biomechanical Update)
+**Version:** 2.0 (Deep Time Update)
 
 ---
 
 ## 1. Classification System
 
-*   **Class A: Glitches (The Digital Dead)** - Born from Ring 1.
-*   **Class B: Performers (The Giallo Killers)** - Born from Ring 2.
-*   **Class C: Drifters (The Dream Entities)** - Born from Ring 3.
-*   **Class D: Tulpas (The Thought-Forms)** - Born from collective obsession.
-*   **Class E: The Infrastructure (The Wet-Work)** - **[NEW]** Born from the collision of Ring 1 (Digital) and Ring 3 (Dream).
+*   **Class A-D:** Surface Entities (Glitches, Performers, Drifters, Tulpas).
+*   **Class E: The Infrastructure (The Wet-Work)** - The transition class.
+*   **Class F: The Fossils (The Architectural Ancestors) [NEW]** - Entities calcified into the earth/concrete of Ring 4 & 5.
+*   **Class G: The Core-Signals (The Frequency Masters) [NEW]** - Non-corporeal entities inhabiting Ring 6.
 
 ---
 
-## 2. The Registry (New Additions)
+## 2. The Registry (Deep Time Additions)
 
-### The Throat-Pipe (Class E)
-*   **Origin:** *Cronenberg / Lynch* lineage.
-*   **Appearance:** Standard galvanized steel or PVC piping that, when cut or broken, reveals biological interior (mucosa, teeth, vocal cords).
-*   **Behavior:** It hums at 40Hz. It mimics human speech (The "Previous Tenant").
-*   **Effect:** Transforms the home from a "Container" into a "Body." The resident is no longer a dweller; they are a parasite.
-*   **Epistemology:** The "Abject" (Kristeva). The distinction between "House" and "Flesh" collapses.
+### The Amigara-Human (Class F)
+*   **Origin:** *Junji Ito / Substrate Horror* lineage.
+*   **Appearance:** Human shapes perfectly hollowed out of solid rock or concrete.
+*   **Behavior:** They do not move. They wait for the "Right" person to fit into them. 
+*   **Effect:** Once occupied, the person becomes part of the building's permanent memory.
+*   **Epistemology:** The "Final Fit." The loss of identity to geometry.
 
-### The Cable-Nerve (Class E)
-*   **Origin:** *Tetsuo: The Iron Man* / *Videodrome*.
-*   **Appearance:** Ethernet or HDMI cables that pulsate. If stripped, they bleed.
-*   **Function:** They do not transmit data; they transmit *sensation*.
-*   **Dial:** High $GRINDHOUSE + High $KON_SPIRAL.
-
-### The Wall-Skin (Class E)
-*   **Origin:** *Polanski (Repulsion)* / *Barton Fink*.
-*   **Appearance:** Drywall that bruises when struck. Wallpaper that sweats.
-*   **Behavior:** It creates new doors that shouldn't exist (The Trapdoor function).
+### The Sonic Siphon (Class G)
+*   **Origin:** *Glazer / Strickland* lineage.
+*   **Appearance:** A localized pocket of absolute silence that moves through the environment.
+*   **Behavior:** It "Inhales" all ambient noise in a 10-foot radius.
+*   **Effect:** Produces auditory "The Heavy Void." Causes immediate epistemic panic.
+*   **Epistemology:** Wrong Absence (Fisher).
 
 ---
 
-## 3. Entity Rules (Update)
+## 3. Entity Evolution Rules
 
-4.  **The Law of Calcification:** Biological entities in PHANTASMATA tend to become mechanical over time (The Giallo Killer becomes a statue).
-5.  **The Law of Liquefaction:** Mechanical entities tend to become biological (The Pipe becomes a Throat).
+6.  **The Law of Compression:** As entities move from the Surface to the Substrate, they lose their visual distinctness ($ARGENTO) and become pure frequency ($KON) or pure geometry ($LYNCH).
+7.  **The Memory-Host Rule:** Class F entities require a "Tenant" to activate. Without a host, they are just holes. With a host, they are gods.
+
+---
+*The Underworld is hungry. Provide the host.*
