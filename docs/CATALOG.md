@@ -55,6 +55,11 @@
 | research/cluster_24_modern_abyss.md | research | Jung, Freud, Lovecraft (The Science of the Shadow). |
 | research/cluster_25_virtual_limbo.md | research | Ellison, Matrix, Control (The Systematic Void). |
 
+### Research (Cluster 14: The Literary Shadow)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_14_literary_shadow.md | research | Ligotti, Aickman, Jackson, Danielewski (The Unwritten Protocol). |
+
 ### Museum of the Unrecorded
 | Filename | Type | Description |
 |----------|------|-------------|
@@ -73,6 +78,12 @@
 | production/beta/episode_05_fossil_bed.md | episode | Arrival at Ring 5 ($LYNCH 100). |
 | production/beta/episode_06_molten_core.md | episode | Season 2 Finale (Unified Field). |
 | production/beta/episode_07_mask_multitude.md | episode | Persona vs. Shadow ($KON 90). |
+| production/beta/episode_08_pandemonium.md | episode | The grand architecture of consumption. |
+
+### Strategy
+| Filename | Type | Description |
+|----------|------|-------------|
+| strategy/museum_strategy.md | strategy | Operational plan for the Anti-Archive. |
 
 ---
 *Catalog version 5.0 -- THE TRIFORCE IS BALANCED.*
