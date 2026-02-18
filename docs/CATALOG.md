@@ -31,18 +31,16 @@
 ### Architecture (The Substrate)
 | Filename | Type | Description |
 |----------|------|-------------|
-| research/cluster_08_viral_semiotics.md | research | Burroughs, Pontypool, Snow Crash (Infectious Phoneme). |
-
-### Research (Cluster 9: The Digital Occult)
-| Filename | Type | Description |
-|----------|------|-------------|
-| research/cluster_09_digital_occult.md | research | Kurosawa, Lain, Assayas, Barker (The Gateway Protocol). |
+| bible/physics.md | update | Added Law of Temporal Dilation (Tarkovsky). |
+| docs/integration/deep_time_synthesis.md | thesis | Mapping LingFrame & Narratological Lenses. |
+| tools/lingframe/lexicon.yaml | data | CHTHON Domain Sentiment Lexicon. |
 
 ### Museum of the Unrecorded
 | Filename | Type | Description |
 |----------|------|-------------|
 | museum/shining_cronenberg.md | exhibit | The Shining (1982) Dir. David Cronenberg. |
 | museum/satiation_inheritance.md | exhibit | The Infectious Phoneme (INHERITANCE). |
+| museum/audit_user_99.md | exhibit | 8-Role Audit of the Mirror Incident. |
 
 ### Research (Cluster 10: The Voyeuristic Violation)
 | Filename | Type | Description |

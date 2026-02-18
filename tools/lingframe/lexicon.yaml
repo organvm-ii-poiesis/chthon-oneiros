@@ -1,0 +1,47 @@
+# CHTHON Domain Sentiment Lexicon
+# Specializing in Abjection, Epistemic Failure, and Substrate Horror
+
+name: chthon_sentiment_lexicon
+description: Terms for identifying the breach points of the Underworld.
+
+terms:
+  # Epistemic Failure (Positive Weight in CHTHON = More Dread)
+  uncanny: 2.5
+  anomalous: 2.0
+  recursive: 1.8
+  dissolving: 2.2
+  medicated: -1.5 # Blocking the signal
+  stable: -2.0 # Waking world interference
+  
+  # Abjection (The Wet-Ware)
+  throat: 2.8
+  visceral: 2.5
+  sphincter: 3.0
+  pulsating: 1.5
+  mucosa: 2.7
+  
+  # The Giallo Axis
+  crimson: 2.0
+  vermilion: 2.2
+  indigo: 1.8
+  ritual: 2.5
+  operatic: 2.0
+
+categories:
+  epistemic_breach:
+    - uncanny
+    - anomalous
+    - recursive
+    - dissolving
+  wet_ware:
+    - throat
+    - visceral
+    - sphincter
+    - pulsating
+    - mucosa
+  giallo_intensity:
+    - crimson
+    - vermilion
+    - indigo
+    - ritual
+    - operatic

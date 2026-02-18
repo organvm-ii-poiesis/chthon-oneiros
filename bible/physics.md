@@ -18,10 +18,11 @@
 *   **Rule:** The horror is not that the machine is broken. The horror is that the machine is *alive*.
 *   **The Wet-Ware Axiom:** Any sufficiently advanced technology is indistinguishable from meat.
 
-### VI. The Law of the Red Shift ($ARGENTO_GEL)
-*Intensity dictates reality.*
-*   **Rule:** As dread increases, the color spectrum shifts toward Red.
-*   **The Sodium Vapor Effect:** In the "City of Gels," shadows are not absence of light; they are presence of Violet.
+### VII. The Law of Temporal Dilation (Tarkovsky)
+*Time is the material, not the measure.*
+*   **Axiom (AT-A0):** Time moves at the speed of **Pressure**. In the Substrate, rhythm is determined by the felt weight of existence within the frame, not by clock-seconds.
+*   **The Mosaic Effect:** Scenes are connected by **Poetic Logic** (associative/emotional resonance) rather than causal necessity. If a fragment feels like a memory, it is chronologically accurate for Ring 4.
+*   **Rhythm Constraint (AT-A4):** Rhythm must arise from time-pressure within the shot. A long-take in the Sediment is not a delay; it is a compression of centuries.
 
 ---
 
