@@ -13,12 +13,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents |      108 files |
+| Total documents |      110 files |
 | The Black Book | 1 (Season 1 Omnibus) |
 | Research Reports | 22 (Clusters 1-8 complete) |
 | Bible/Architecture | 5 (v2.0 Deep Time Architecture) |
 | Season 2 Episodes | 2 ("Core Sample," "House of Leaves") |
-| Estimated total word count | **323734** |
+| Estimated total word count | **324833** |
 
 ---
 
@@ -49,6 +49,11 @@
 |----------|------|-------------|
 | research/cluster_10_voyeuristic_violation.md | research | Powell, Hitchcock, De Palma (The Lethal Optic). |
 
+### Research (Cluster 11: The Raw Signal)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_11_raw_signal.md | research | Begotten, Tetsuo, Eraserhead (Primordial Dread). |
+
 ### Production (Episodes)
 | Filename | Type | Focus |
 |----------|------|-------|
@@ -56,6 +61,7 @@
 | production/beta/episode_02_house_of_leaves.md | episode | Non-Euclidean spatial horror. |
 | production/beta/episode_03_perfect_fit.md | episode | Body integration into concrete ($GRINDHOUSE). |
 | production/beta/episode_04_circulation.md | episode | The building's circulatory system ($KON_SPIRAL). |
+| production/beta/episode_05_fossil_bed.md | episode | Arrival at Ring 5 ($LYNCH_DRIFT Peak). |
 
 ## 🧬 Season 2: THE DEEP TIME (Campaign)
 | Week | Asset | Focus |
