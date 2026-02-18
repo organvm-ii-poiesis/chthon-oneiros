@@ -36,12 +36,32 @@
 | docs/integration/triforce_audit.md | audit | Inter-repository dynamics (I ↔ II ↔ III). |
 | tools/lingframe/lexicon.yaml | data | CHTHON Domain Sentiment Lexicon. |
 
+### Research (Cluster 12: The Ancient Coronation)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_12_ancient_coronation.md | research | Béla Tarr, Weerasethakul, Tarkovsky (Ontological Vertigo). |
+
+### Research (Cluster 13: The Auditory Abyss)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_13_auditory_abyss.md | research | Lustmord, Coil, Burial, Sunn O))) (Acoustic Flesh). |
+
+### Research (Stream B: The Chthonic Genealogy)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_21_primordial_descent.md | research | Irkalla, Duat, Hades (The Original Floorplans). |
+| research/cluster_22_infernal_architecture.md | research | Dante, Bosch, Milton (The Systematic Afterlife). |
+| research/cluster_23_dark_sublime.md | research | Goya, Piranesi, Shelley, Poe (The Interior Abyss). |
+| research/cluster_24_modern_abyss.md | research | Jung, Freud, Lovecraft (The Science of the Shadow). |
+| research/cluster_25_virtual_limbo.md | research | Ellison, Matrix, Control (The Systematic Void). |
+
 ### Museum of the Unrecorded
 | Filename | Type | Description |
 |----------|------|-------------|
 | museum/shining_cronenberg.md | exhibit | The Shining (1982) Dir. David Cronenberg. |
 | museum/satiation_inheritance.md | exhibit | The Infectious Phoneme (INHERITANCE). |
 | museum/audit_user_99.md | exhibit | 8-Role Audit of the Mirror Incident. |
+| museum/exhibit_cluster_13.md | exhibit | The Heretic Frequency (Lustmord). |
 
 ### Production (Season 2 Episodes)
 | Filename | Type | Focus |

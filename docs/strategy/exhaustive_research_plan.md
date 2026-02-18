@@ -7,7 +7,7 @@
 
 ## 1. Research Modalities
 
-To achieve "Exhaustive" status, the research must ingest data across four primary streams:
+To achieve "Exhaustive" status, the research must ingest data across five primary streams:
 
 | Modality | Target Data | Extraction Goal |
 |---|---|---|
@@ -15,6 +15,42 @@ To achieve "Exhaustive" status, the research must ingest data across four primar
 | **TEXT** | Interiority, linguistic viruses, narrative gaps. | The "Infectious Phoneme" (LingFrame Lexicon). |
 | **AUDIO** | Infrasound, resonance, industrial silence, voice. | The "Sonic Void" (Excavation Frequency). |
 | **WEB** | Interface horror, digital paranoia, recursion. | The "Gateway Protocol" (Mediation Collapse). |
+| **MYTH** | Chthonic archetypes, underworld cartography, ritual. | The "Ancient Recursion" (Historical Substrate). |
+
+---
+
+## 2. New Research Clusters (The Roadmap)
+
+### [STREAM A: MEDIA MASTERS]
+... (Clusters 13-17) ...
+
+### [STREAM B: THE CHTHONIC GENEALOGY]
+*Goal: Exhaustive mapping of Underworld representations across time.*
+
+#### Cluster 21: The Primordial Descent (Ancient Foundations)
+*   **Focus:** Sumerian Irkalla, Egyptian Duat, Greek Hades/Tartarus.
+*   **Targets:** *Descent of Inanna*, *Book of the Dead*, *The Odyssey* (Book XI).
+*   **Goal:** Map the "Original Floorplans" of the Underworld.
+
+#### Cluster 22: The Infernal Architecture (Medieval & Renaissance)
+*   **Focus:** Moral cartography, systematic punishment, visceral decay.
+*   **Targets:** **Dante Alighieri** (*The Divine Comedy*), **Hieronymus Bosch** (*The Garden of Earthly Delights*), **John Milton** (*Paradise Lost*).
+*   **Goal:** Define the "Omniscient Grid" of the afterlife.
+
+#### Cluster 23: The Dark Sublime (Romantic & Gothic)
+*   **Focus:** Ruin, vastness, and the interiority of fear.
+*   **Targets:** **Goya** (The Black Paintings), **Piranesi** (The Prisons), **Mary Shelley**, **Edgar Allan Poe**.
+*   **Goal:** Codify the transition from external Hell to internal Shadow.
+
+#### Cluster 24: The Modern Abyss (Psychological & Scientific)
+*   **Focus:** The subconscious as underworld, entropy, and the heat-death of the universe.
+*   **Targets:** **Jung** (The Red Book), **Freud** (The Uncanny), **H.P. Lovecraft** (Cosmic Indifference).
+*   **Goal:** Define the "Molten Core" of the modern psyche.
+
+#### Cluster 25: The Virtual Limbo (Digital & Post-Modern)
+*   **Focus:** Simulated hells, data-loss as death, and the recursive loop.
+*   **Targets:** *I Have No Mouth and I Must Scream*, *The Matrix*, *Control* (Oldest House).
+*   **Goal:** Finalize the "Gateway Protocol" for Season 2.
 
 ---
 
