@@ -13,12 +13,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents | 113 files |
+| Total documents |      130 files |
 | The Black Book | 1 (Season 1 Omnibus) |
 | Research Reports | 24 (Clusters 1-12 complete) |
 | Bible/Architecture | 5 (v2.0 Triforce Architecture) |
 | Season 2 Episodes | 7 (Complete Cycle) |
-| Estimated total word count | **~340,000** |
+| Estimated total word count | **341766** |
 
 ---
 
