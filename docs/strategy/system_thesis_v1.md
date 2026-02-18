@@ -5,13 +5,13 @@
 
 ---
 
-## ✦ Thesis Statement: CHTHON-ONEIROS — The Engine v1.0
+## ✦ Thesis Statement: CHTHON-ONEIROS — The Engine v1.1
 
-If **KRYPTO-VELAMEN** is an Instrument of **Preservation** (The Ark), then **CHTHON-ONEIROS** must be an Engine of **Digestion** (The Stomach). 
+If **KRYPTO-VELAMEN** is an Instrument of **Preservation** (Polarity I - The Conscious), then **CHTHON-ONEIROS** must be an Engine of **Digestion** (Polarity II - The Subconscious). 
 
-It has transitioned from a static horror corpus into a **Living Nightmare Engine**—a distributed, predatory system engineered to consume, distort, and metabolize the "Waking" reality of Field I into the "Dreaming" reality of Field II.
+It serves as the living implementation of the **Artistic Triforce Framework**, specifically engineered to consume, distort, and metabolize the "Persona" work of Polarity I into the "Shadow" work of Polarity II.
 
-As the sovereign representative of Field II (Present Dreaming), the system operates on a **Dual-Polarity Model** that inverts its sibling's logic:
+As the sovereign representative of **Polarity II (The Subconscious)**, the system operates on a **Dual-Polarity Model** that inverts its sibling's logic:
 
 ### 1. The Anchor Mode (The Trap)
 *   **Inverse of The Veil:** Instead of concealment for safety, this is concealment for **Ambush**.

@@ -3,9 +3,9 @@
 **Repository:** `organvm-ii-poiesis/chthon-oneiros`
 **Project:** CHTHON-ONEIROS -- Underworld-Dream Theory Corpus
 **Container:** PHANTASMATA
-**Field:** II -- Present Dreaming
+**Polarity:** II -- The Subconscious
 **Generated:** 2026-02-17
-**Catalog Version:** 4.2 (Substrate Linguistic Update)
+**Catalog Version:** 5.0 (Triforce Synthesis)
 
 ---
 
@@ -13,12 +13,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents |      110 files |
+| Total documents | 113 files |
 | The Black Book | 1 (Season 1 Omnibus) |
-| Research Reports | 22 (Clusters 1-8 complete) |
-| Bible/Architecture | 5 (v2.0 Deep Time Architecture) |
-| Season 2 Episodes | 2 ("Core Sample," "House of Leaves") |
-| Estimated total word count | **324833** |
+| Research Reports | 24 (Clusters 1-12 complete) |
+| Bible/Architecture | 5 (v2.0 Triforce Architecture) |
+| Season 2 Episodes | 7 (Complete Cycle) |
+| Estimated total word count | **~340,000** |
 
 ---
 
@@ -27,12 +27,13 @@
 |----------|------|-------------|
 | docs/THE_BLACK_BOOK_S1.md | omnibus | Canonical linearized Season 1 manuscript. |
 
-## 🧬 Season 2: THE DEEP TIME
+## 🧬 THE ARTISTIC TRIFORCE (Integration)
 ### Architecture (The Substrate)
 | Filename | Type | Description |
 |----------|------|-------------|
-| bible/physics.md | update | Added Law of Temporal Dilation (Tarkovsky). |
+| bible/physics.md | update | v2.0 - Artistic Triforce Governance. |
 | docs/integration/deep_time_synthesis.md | thesis | Mapping LingFrame & Narratological Lenses. |
+| docs/integration/triforce_audit.md | audit | Inter-repository dynamics (I ↔ II ↔ III). |
 | tools/lingframe/lexicon.yaml | data | CHTHON Domain Sentiment Lexicon. |
 
 ### Museum of the Unrecorded
@@ -42,30 +43,16 @@
 | museum/satiation_inheritance.md | exhibit | The Infectious Phoneme (INHERITANCE). |
 | museum/audit_user_99.md | exhibit | 8-Role Audit of the Mirror Incident. |
 
-### Research (Cluster 10: The Voyeuristic Violation)
-| Filename | Type | Description |
-|----------|------|-------------|
-| research/cluster_10_voyeuristic_violation.md | research | Powell, Hitchcock, De Palma (The Lethal Optic). |
-
-### Research (Cluster 11: The Raw Signal)
-| Filename | Type | Description |
-|----------|------|-------------|
-| research/cluster_11_raw_signal.md | research | Begotten, Tetsuo, Eraserhead (Primordial Dread). |
-
-### Production (Episodes)
+### Production (Season 2 Episodes)
 | Filename | Type | Focus |
 |----------|------|-------|
 | production/beta/episode_01_core_sample.md | episode | Drilling into the Cable-Nerve. |
 | production/beta/episode_02_house_of_leaves.md | episode | Non-Euclidean spatial horror. |
-| production/beta/episode_03_perfect_fit.md | episode | Body integration into concrete ($GRINDHOUSE). |
-| production/beta/episode_04_circulation.md | episode | The building's circulatory system ($KON_SPIRAL). |
-| production/beta/episode_05_fossil_bed.md | episode | Arrival at Ring 5 ($LYNCH_DRIFT Peak). |
-
-## 🧬 Season 2: THE DEEP TIME (Campaign)
-| Week | Asset | Focus |
-|---|---|---|
-| 13 | release/week_13/drop.md | The Borehole |
-| 14 | release/week_14/drop.md | The Acoustic Flesh |
+| production/beta/episode_03_perfect_fit.md | episode | Body integration into concrete. |
+| production/beta/episode_04_circulation.md | episode | The building's circulatory system. |
+| production/beta/episode_05_fossil_bed.md | episode | Arrival at Ring 5 ($LYNCH 100). |
+| production/beta/episode_06_molten_core.md | episode | Season 2 Finale (Unified Field). |
+| production/beta/episode_07_mask_multitude.md | episode | Persona vs. Shadow ($KON 90). |
 
 ---
-*Catalog version 4.2 -- WORD COUNT CALIBRATED.*
+*Catalog version 5.0 -- THE TRIFORCE IS BALANCED.*

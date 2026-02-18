@@ -5,9 +5,10 @@ This file provides the authoritative context for interacting with the **CHTHON-O
 ---
 
 ## 👁️ Project Overview
-**CHTHON-ONEIROS** is a "Living Nightmare Engine" and psychological horror corpus. It serves as the Field II (Present Dreaming) representative of the **Four-Field Model** of creative labor. Its primary objective is to explore **"horror as epistemology"**—treating horror not as entertainment, but as the affect that accompanies the failure of human knowledge systems.
+**CHTHON-ONEIROS** is a "Living Nightmare Engine" and psychological horror corpus. It serves as the **Polarity II (The Subconscious)** representative of the **Artistic Triforce Framework**. Its primary objective is to explore **"horror as epistemology"**—treating horror not as entertainment, but as the affect that accompanies the failure of human knowledge systems.
 
 ### Core Philosophy
+- **The Artistic Triforce:** This project is the "Subconscious" polarity, focusing on hidden fears, internal conflicts, and imaginative masks (Shadow work). It is the inverse of **KRYPTO-VELAMEN** (Polarity I - The Conscious).
 - **The Conservation of Resistance:** No work may remain in a field where it no longer resists its creator.
 - **Audience Uncertainty:** The design intent is to maintain total ambiguity between the real and the fabricated.
 - **The Shadow Instrument:** An inverse of its sibling repository (`KRYPTO-VELAMEN`), designed to dissolve identity rather than preserve it.
