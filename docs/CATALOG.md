@@ -13,12 +13,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents |      101 files |
+| Total documents |      108 files |
 | The Black Book | 1 (Season 1 Omnibus) |
 | Research Reports | 22 (Clusters 1-8 complete) |
 | Bible/Architecture | 5 (v2.0 Deep Time Architecture) |
 | Season 2 Episodes | 2 ("Core Sample," "House of Leaves") |
-| Estimated total word count | **321920** |
+| Estimated total word count | **323734** |
 
 ---
 
@@ -44,12 +44,24 @@
 | museum/shining_cronenberg.md | exhibit | The Shining (1982) Dir. David Cronenberg. |
 | museum/satiation_inheritance.md | exhibit | The Infectious Phoneme (INHERITANCE). |
 
+### Research (Cluster 10: The Voyeuristic Violation)
+| Filename | Type | Description |
+|----------|------|-------------|
+| research/cluster_10_voyeuristic_violation.md | research | Powell, Hitchcock, De Palma (The Lethal Optic). |
+
 ### Production (Episodes)
 | Filename | Type | Focus |
 |----------|------|-------|
 | production/beta/episode_01_core_sample.md | episode | Drilling into the Cable-Nerve. |
 | production/beta/episode_02_house_of_leaves.md | episode | Non-Euclidean spatial horror. |
 | production/beta/episode_03_perfect_fit.md | episode | Body integration into concrete ($GRINDHOUSE). |
+| production/beta/episode_04_circulation.md | episode | The building's circulatory system ($KON_SPIRAL). |
+
+## 🧬 Season 2: THE DEEP TIME (Campaign)
+| Week | Asset | Focus |
+|---|---|---|
+| 13 | release/week_13/drop.md | The Borehole |
+| 14 | release/week_14/drop.md | The Acoustic Flesh |
 
 ---
 *Catalog version 4.2 -- WORD COUNT CALIBRATED.*

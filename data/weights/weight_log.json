@@ -100,6 +100,26 @@
       },
       "winner": "THE AUDIENCE",
       "impact": "SEASON 1 COMPLETE. The repository is now a living artifact."
+    },
+    {
+      "week": 13,
+      "date": "2026-05-12",
+      "scores": {
+        "CHTHON": 85,
+        "SUBSTRATE": 15
+      },
+      "winner": "CHTHON",
+      "impact": "Season 2 Week 1: Borehole Successful. Week 14 will focus on 'Acoustic Flesh' (+20 Law of Silence)."
+    },
+    {
+      "week": 14,
+      "date": "2026-05-19",
+      "scores": {
+        "CHTHON": 95,
+        "SUBSTRATE": 5
+      },
+      "winner": "CHTHON",
+      "impact": "Sonic Synchronization Achieved. Week 15 will be 'The Extension' (+30 $LYNCH_DRIFT intensity)."
     }
   ]
 }
