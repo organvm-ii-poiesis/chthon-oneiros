@@ -83,3 +83,21 @@ New research follows the **18-Step Protocol** in `research/framework_v2.md`: Ing
 Organ II (Art) under `organvm-ii-poiesis`. Consumes theory from Organ I (`organvm-i-theoria`) and provides subconscious material to Polarity III (Narratological Lenses / LingFrame).
 
 **Registry:** [`registry-v2.json`](https://github.com/meta-organvm/organvm-corpvs-testamentvm/blob/main/registry-v2.json)
+
+<!-- ORGANVM:AUTO:START -->
+## System Context (auto-generated — do not edit)
+
+**Organ:** ORGAN-II (Art) | **Tier:** standard | **Status:** LOCAL
+**Org:** `unknown` | **Repo:** `chthon-oneiros`
+
+### Edges
+- *No inter-repo edges declared in seed.yaml*
+
+### Siblings in Art
+`core-engine`, `performance-sdk`, `example-generative-music`, `metasystem-master`, `example-choreographic-interface`, `showcase-portfolio`, `archive-past-works`, `case-studies-methodology`, `learning-resources`, `example-generative-visual`, `example-interactive-installation`, `example-ai-collaboration`, `docs`, `a-mavs-olevm`, `a-i-council--coliseum` ... and 14 more
+
+### Governance
+- Consumes Theory (I) concepts, produces artifacts for Commerce (III).
+
+*Last synced: 2026-02-24T12:41:28Z*
+<!-- ORGANVM:AUTO:END -->
