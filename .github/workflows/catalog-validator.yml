@@ -12,9 +12,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check Catalog Integrity
         run: |
-          # Simple check to ensure CATALOG.md exists and is updated
-          if [ ! -f CATALOG.md ]; then
-            echo "CATALOG.md missing"
+          # Simple check to ensure the catalog file exists.
+          if [ -f docs/CATALOG.md ]; then
+            echo "Found docs/CATALOG.md"
+          elif [ -f CATALOG.md ]; then
+            echo "Found CATALOG.md"
+          else
+            echo "CATALOG.md missing (checked docs/CATALOG.md and CATALOG.md)"
             exit 1
           fi
           # Future: Add script to verify all .md files are indexed
