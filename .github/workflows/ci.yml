@@ -1,0 +1,64 @@
+name: Minimal CI
+
+on:
+  push:
+    branches: [main, master, develop]
+  pull_request:
+    branches: [main, master, develop]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate structure
+        run: |
+          echo "Repository structure:"
+          ls -la
+          echo ""
+          echo "README check:"
+          if [ -f "README.md" ]; then
+            echo "::notice::README.md found"
+            wc -w README.md
+          else
+            echo "::warning::No README.md found"
+          fi
+          echo ""
+          echo "License check:"
+          if [ -f "LICENSE" ] || [ -f "LICENSE.md" ]; then
+            echo "::notice::License file found"
+          else
+            echo "::warning::No license file found"
+          fi
+
+      - name: Validate seed.yaml
+        run: |
+          python3 -c "
+          import yaml
+          with open('seed.yaml') as f:
+              seed = yaml.safe_load(f)
+          assert seed.get('organ'), 'Missing organ field'
+          assert seed.get('repo'), 'Missing repo field'
+          print('::notice::seed.yaml valid')
+          "
+
+      - name: Lint Python tools
+        run: |
+          if compgen -G "tools/*.py" > /dev/null; then
+            python3 -m py_compile tools/*.py
+            echo "::notice::Python scripts compile successfully"
+          fi
+
+      - name: Lint shell scripts
+        run: |
+          if compgen -G "tools/*.sh" > /dev/null; then
+            for f in tools/*.sh; do
+              bash -n "$f" && echo "::notice::$f syntax OK"
+            done
+          fi
+
+      - name: Success
+        run: echo "::notice::Minimal CI validation passed"
