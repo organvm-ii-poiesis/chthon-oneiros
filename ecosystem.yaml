@@ -1,0 +1,9 @@
+schema_version: '1.0'
+repo: chthon-oneiros
+organ: II
+display_name: "CHTHON-ONEIROS \u2014 Underworld-dream: psychological horror theory\
+  \ corpus. Field II (Present Dreaming). Surrealism, found footage, digital paranoia,\
+  \ the unconscious as compositional engine."
+delivery:
+- platform: web_app
+  status: not_started
