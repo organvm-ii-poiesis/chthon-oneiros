@@ -73,3 +73,11 @@ When the work stops pushing back, it no longer belongs here. Resistance is the m
 <p align="center">
   <i>"Horror is the affect that accompanies epistemic failure."</i>
 </p>
+
+<!-- SYSTEM-NAV-START -->
+
+---
+
+<sub>[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN II · Poiesis](https://organvm-ii-poiesis.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+
+<!-- SYSTEM-NAV-END -->
